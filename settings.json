@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Devil9846ryzen.aternos.me,
+    "ip": "Devil9846ryzen.aternos.me",
     "port": 34601,
     "version": "",
     "try-creative": false
